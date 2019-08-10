@@ -1,0 +1,38 @@
+#include<stdio.h>
+
+void main()
+{
+
+float p;
+
+float d;
+
+int count=1;
+
+int amount=0;
+
+printf("enter price of cofee");
+
+scanf("%f",&p);
+
+printf("enter discount");
+
+scanf("%f",&d);
+
+d=(d*p)/100;
+
+amount=(price-d)
+printf("amount");
+
+count++;
+
+if(count>2)
+{
+
+p=p*d;
+
+}
+
+print("cost of cofee");
+
+}
